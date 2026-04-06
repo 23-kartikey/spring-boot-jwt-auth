@@ -1,4 +1,4 @@
-# Spring Boot JWT Authentication
+# Spring Boot JWT Authentication- User Management API
 
 A backend authentication API built with Spring Boot and Spring Security,
 implementing stateless JWT-based authentication.
